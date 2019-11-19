@@ -13,9 +13,9 @@ sections:
 - type: section_features
   template: section_features
   section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  title: Featured texts
+  subtitle: Our texts are made to adapt to the needs of students and teachers. Look
+    around and let us know how we can be of help.
   bg: gray
   featureslist:
   - title: The Best Feature of Your Services
